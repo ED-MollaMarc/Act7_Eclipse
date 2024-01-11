@@ -8,6 +8,7 @@ public class act7 {
 			System.out.println(i);
 		}
 		
+		System.out.println("Segon commit");
 
 	}
 
